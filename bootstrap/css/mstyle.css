@@ -1,0 +1,3 @@
+.table-hover tbody tr.info:hover > td {
+  background-color: #c4e3f3;
+}
